@@ -5,5 +5,4 @@ Assignment repository for UNT CSCE1015
 la0610
 
 ## Favorite Linux Command or Cool Things You've Done with ChatGPT
-mkdir is my favorite Linux command.
-mkdir is my favorite Linux command.
+mkdir
